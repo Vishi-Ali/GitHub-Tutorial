@@ -1,4 +1,4 @@
-const names= ['Ayushman', 'Tanishka', 'Sumit'];
+const names= ['Ayushman', 'Tanishka', 'Sumit', 'Computer Coding Club'];
 
 const displayNames= ()=>{
     const namesList= document.getElementById('names-list');
